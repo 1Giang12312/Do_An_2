@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling g:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\HSD\HSD.chm
+
+
+Compile time: 0 minutes, 1 second
+14	Topics
+0	Local links
+0	Internet links
+0	Graphics
+
+
+Created g:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\HSD\HSD.chm, 827,810 bytes
+Compression decreased file by 1,039,558 bytes.

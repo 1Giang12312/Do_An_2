@@ -1,0 +1,8 @@
+quyền admin:
+tên đăng nhập: admin
+mật khẩu:	1
+quyền user:
+tên đăng nhập: user
+mật khẩu:	1
+
+GUI là thư mục DoAnCuoiKi

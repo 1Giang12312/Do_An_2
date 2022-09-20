@@ -1,0 +1,29 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HSD.chm
+Contents file=HSD.hhc
+Index file=HSD.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=HSD
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="HSD","HSD.hhc","HSD.hhk","dangnhap.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+dangnhap.mht
+formchinh.mht
+formhanghoa.mht
+formhoadon.mht
+formkhachhang.mht
+formloaisua.mht
+formnhanvien.mht
+formphanloai.mht
+formtaikhoan.mht
+formthongke.mht
+formtimkiemhoadon.mht
+quenmk.mht
+

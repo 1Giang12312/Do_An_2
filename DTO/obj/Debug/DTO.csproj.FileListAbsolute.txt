@@ -1,0 +1,6 @@
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\bin\Debug\DTO.dll
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\bin\Debug\DTO.pdb
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\obj\Debug\DTO.dll
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\obj\Debug\DTO.pdb
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache

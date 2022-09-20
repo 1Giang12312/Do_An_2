@@ -1,0 +1,12 @@
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe.config
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.exe
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\bin\Debug\DoAnCuoiKi.pdb
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.AssemblyReference.cache
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.Properties.Resources.resources
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.GenerateResource.cache
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CoreCompileInputs.cache
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.exe
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.pdb
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\bin\Debug\FontAwesome.Sharp.dll
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.csproj.CopyComplete
+G:\DAI HOC NAM 3- HK2\LapTrinhQuanLy\Do_An_Cuoi_Ki\DoAnCuoiKi\obj\Debug\DoAnCuoiKi.formMain.resources
